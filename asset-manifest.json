@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Enyew1/Enyew-L/static/css/main.acb5262b.css",
+    "main.js": "/Enyew1/Enyew-L/static/js/main.71081008.js",
+    "static/js/787.b2cf03b9.chunk.js": "/Enyew1/Enyew-L/static/js/787.b2cf03b9.chunk.js",
+    "static/media/avatar.png": "/Enyew1/Enyew-L/static/media/avatar.94f7b2aaecaeaec97fd0.png",
+    "static/media/home-main.png": "/Enyew1/Enyew-L/static/media/home-main.94f7b2aaecaeaec97fd0.png",
+    "static/media/about.png": "/Enyew1/Enyew-L/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CV.pdf": "/Enyew1/Enyew-L/static/media/CV.4ce5039ec7c1d7effd23.pdf",
+    "static/media/home-bg.jpg": "/Enyew1/Enyew-L/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Enyew1/Enyew-L/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Enyew1/Enyew-L/index.html",
+    "main.acb5262b.css.map": "/Enyew1/Enyew-L/static/css/main.acb5262b.css.map",
+    "main.71081008.js.map": "/Enyew1/Enyew-L/static/js/main.71081008.js.map",
+    "787.b2cf03b9.chunk.js.map": "/Enyew1/Enyew-L/static/js/787.b2cf03b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb5262b.css",
+    "static/js/main.71081008.js"
+  ]
+}
